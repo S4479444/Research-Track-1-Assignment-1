@@ -7,7 +7,7 @@
 ########################################## THE CURRENT README.md IS REGARDING THE ASSIGNMENT ONLY; THE WHOLE PROJECT'S README.md IS IN THE FOLLOWING PATH: ####################################################
 #																										  #
 # 	This README.md contains only the information about the assignment #1. For any other informations about the main code, or the structure of the robot, tokens and the arena, please refer to:		  #
-#																										  #
+#				https://github.com/S4479444/Research-Track-1-Assignment-1/blob/main/README.md													  #
 #																										  #
 # 																										  #
 ###############################################################################################################################################################################################################
